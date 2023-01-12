@@ -1,0 +1,11 @@
+{
+	"idle_anim": "menu_svk",
+	"image": "Menu_SVK",
+	"position": [
+		192,
+		14
+	],
+	"flipX": false,
+	"scale": 1,
+	"confirm_anim": "menu_svk"
+}

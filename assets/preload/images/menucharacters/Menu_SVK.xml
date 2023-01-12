@@ -1,0 +1,19 @@
+<TextureAtlas imagePath="menu_SvK.png">
+	<!-- Made in fucking ibisPaint X. -->
+	<!-- I had to make this fucking XML from scratch. -->
+	<SubTexture name="menu_svk0000" x="0" y="0" width="1169" height="386"/>
+    <SubTexture name="menu_svk0001" x="0" y="0" width="1169" height="386"/>
+    <SubTexture name="menu_svk0002" x="0" y="0" width="1169" height="386"/>
+    <SubTexture name="menu_svk0003" x="0" y="0" width="1169" height="386"/>
+    <SubTexture name="menu_svk0004" x="0" y="0" width="1169" height="386"/>
+    <SubTexture name="menu_svk0005" x="1193" y="0" width="1168" height="386"/>
+    <SubTexture name="menu_svk0006" x="1193" y="0" width="1168" height="386"/>
+    <SubTexture name="menu_svk0007" x="1193" y="0" width="1168" height="386"/>
+    <SubTexture name="menu_svk0008" x="1193" y="0" width="1168" height="386"/>
+    <SubTexture name="menu_svk0009" x="1193" y="0" width="1168" height="386"/>
+    <SubTexture name="menu_svk0010" x="0" y="414" width="1169" height="386"/>
+    <SubTexture name="menu_svk0011" x="0" y="414" width="1169" height="386"/>
+    <SubTexture name="menu_svk0012" x="0" y="414" width="1169" height="386"/>
+    <SubTexture name="menu_svk0013" x="0" y="414" width="1169" height="386"/>
+    <SubTexture name="menu_svk0014" x="0" y="414" width="1169" height="386"/>
+</TextureAtlas>
