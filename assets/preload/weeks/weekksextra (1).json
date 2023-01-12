@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"HEADSPACE Lo-Fi",
+			"headspacewhitty",
+			[
+				11,
+				11,
+				69
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Easy, Normal, Hard, OrangeJoe",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Extras",
+	"weekName": "Dumb Shit",
+	"freeplayColor": [
+		11,
+		11,
+		69
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

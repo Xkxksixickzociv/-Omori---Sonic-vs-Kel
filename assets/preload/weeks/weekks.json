@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"HEADSPACE",
+			"sonic",
+			[
+				146,
+		        184,
+		        255
+			]
+		],
+		[
+			"Mach Speed",
+			"sonic",
+			[
+				146,
+		        184,
+		        255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "HEADSPACE",
+	"difficulties": "Easy, Normal, Hard, OrangeJoe",
+	"weekCharacters": [
+		"svk",
+		"",
+		""
+	],
+	"storyName": "FNF x OMORI x SONIC",
+	"weekName": "Fast as fuck niggas",
+	"freeplayColor": [
+		11,
+		11,
+		69
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
