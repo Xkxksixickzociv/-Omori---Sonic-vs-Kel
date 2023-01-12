@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="HEADSPACE_Kappa_Portrait.png">
+	<!-- ibisPaint again. -->
+	<!-- Nothing else. -->
+	<SubTexture name="HSKP0000" x="0" y="0" width="1200" height="300"/>
+</TextureAtlas>
