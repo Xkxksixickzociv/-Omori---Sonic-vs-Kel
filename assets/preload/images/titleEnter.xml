@@ -1,9 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="titleEnter.png">
-	<!-- Created with Adobe Animate version 21.0.2.37893 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="ENTER FREEZE0000" x="8" y="8" width="1477" height="79"/>
-	<SubTexture name="ENTER IDLE0000" x="8" y="95" width="1477" height="79"/>
-	<SubTexture name="ENTER PRESSED0000" x="8" y="8" width="1477" height="79"/>
-	<SubTexture name="ENTER PRESSED0001" x="8" y="182" width="1477" height="79"/>
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_story_mode.png">
+	<!-- Created with ibisPaint X and a text editor. I can't make a proper joke mod without it looking good. -->
+    <SubTexture name="ENTER FREEZE0000" x="1234" y="133" width="796" height="173" pivotX="11.05" pivotY="17.15" frameX="9" frameY="22" frameWidth="796" frameHeight="181"/>
+    <SubTexture name="ENTER IDLE0000" x="1234" y="133" width="796" height="173" pivotX="11.05" pivotY="17.15" frameX="9" frameY="22" frameWidth="796" frameHeight="181"/>
+	<SubTexture name="ENTER PRESSED0000" x="1377" y="4" width="615" height="130" pivotX="8.4" pivotY="9.8" frameX="-89" frameY="0" frameWidth="796" frameHeight="181"/>
+    <SubTexture name="ENTER PRESSED0001" x="1234" y="133" width="796" height="173" pivotX="11.05" pivotY="17.15" frameX="9" frameY="22" frameWidth="796" frameHeight="181"/>
 </TextureAtlas>
