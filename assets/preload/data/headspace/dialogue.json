@@ -1,0 +1,252 @@
+{
+	"dialogue": [
+		{
+			"sound": "OMOR_Dialogue",
+			"speed": 0.035,
+			"portrait": "headspacekappa",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Yo."
+		},
+		{
+			"sound": "OMOR_Dialogue",
+			"speed": 0.035,
+			"portrait": "headspacekappa",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Mod creator here."
+		},
+        {
+			"sound": "OMOR_Dialogue",
+			"speed": 0.035,
+			"portrait": "headspacekappa",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Just gotta say a few things before you play."
+		},
+        {
+			"sound": "OMOR_Dialogue",
+			"speed": 0.035,
+			"portrait": "headspacekappa",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "First off, the pause menu."
+		},
+        {
+			"sound": "OMOR_Dialogue",
+			"speed": 0.035,
+			"portrait": "headspacekappa",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "I had gotten a script for a custom pause menu so people can see art while it's paused. Hypno style, y'know?"
+		},
+        {
+			"sound": "OMOR_Dialogue",
+			"speed": 0.035,
+			"portrait": "headspacekappa",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "But thing is, it doesn't actually pause the game."
+		},
+        {
+			"sound": "OMOR_Dialogue",
+			"speed": 0.035,
+			"portrait": "headspacekappa",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "It just repeats the same millisecond you chose to pause at."
+		},
+        {
+			"sound": "OMOR_Dialogue",
+			"speed": 0.035,
+			"portrait": "headspacekappa",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Now that wouldn't be a problem... if the game's framerate didn't affect this."
+		},
+        {
+			"sound": "OMOR_Dialogue",
+			"speed": 0.035,
+			"portrait": "headspacekappa",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Basically: higher framerate breaks the chart."
+		},
+        {
+			"sound": "OMOR_Dialogue",
+			"speed": 0.035,
+			"portrait": "headspacekappa",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Lower framerate still plays the song despite actually pausing."
+		},
+        {
+			"sound": "OMOR_Dialogue",
+			"speed": 0.035,
+			"portrait": "headspacekappa",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "I haven't found a way to fix this."
+		},
+        {
+			"sound": "OMOR_Dialogue",
+			"speed": 0.035,
+			"portrait": "headspacekappa",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "So for everyone to avoid this, please cap your framerate at 60."
+		},
+        {
+			"sound": "OMOR_Dialogue",
+			"speed": 0.035,
+			"portrait": "headspacekappa",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "It's just right for the game to not go ape shit when pausing."
+		},
+        {
+			"sound": "OMOR_Dialogue",
+			"speed": 0.035,
+			"portrait": "headspacekappa",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Second thing, emotions play a part in this game."
+		},
+        {
+			"sound": "OMOR_Dialogue",
+			"speed": 0.035,
+			"portrait": "headspacekappa",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "I'd recommend going to the mod's main folder directory."
+		},
+        {
+			"sound": "OMOR_Dialogue",
+			"speed": 0.035,
+			"portrait": "headspacekappa",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "There, you can find the folder that has the custom EMOTION CHART I made specifically for this mod."
+		},
+        {
+			"sound": "OMOR_Dialogue",
+			"speed": 0.035,
+			"portrait": "headspacekappa",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "That way you know what each one does to your health throughout the song."
+		},
+        {
+			"sound": "OMOR_Dialogue",
+			"speed": 0.035,
+			"portrait": "headspacekappa",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Lastly."
+		},
+        {
+			"sound": "OMOR_Dialogue",
+			"speed": 0.035,
+			"portrait": "headspacekappa",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "This mod was made for shits and giggles at first."
+		},
+        {
+			"sound": "OMOR_Dialogue",
+			"speed": 0.035,
+			"portrait": "headspacekappa",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "But if it isn't obvious, I kinda got hooked on making an OMORI FNF mod."
+		},
+        {
+			"sound": "OMOR_Dialogue",
+			"speed": 0.035,
+			"portrait": "headspacekappa",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "So these past 3 months, I've just been having fun making this dumb mod lol."
+		},
+        {
+			"sound": "OMOR_Dialogue",
+			"speed": 0.035,
+			"portrait": "headspacekappa",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "All 'cause a friend of mine said 'Sonic vs. Kel when?'"
+		},
+        {
+			"sound": "OMOR_Dialogue",
+			"speed": 0.035,
+			"portrait": "headspacekappa",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "And the other said 'Now THAT's an FNF mod I want.'"
+		},
+        {
+			"sound": "OMOR_Dialogue",
+			"speed": 0.035,
+			"portrait": "headspacekappa",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "It was supposed to be 1 mod with 1 song."
+		},
+        {
+			"sound": "OMOR_Dialogue",
+			"speed": 0.035,
+			"portrait": "headspacekappa",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "There's 15."
+		},
+        {
+			"sound": "OMOR_Dialogue",
+			"speed": 0.035,
+			"portrait": "headspacekappa",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Enjoy 'em lol."
+		},
+        {
+			"sound": "OMOR_Dialogue",
+			"speed": 0.035,
+			"portrait": "headspacekappa",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "That's it."
+		},
+        {
+			"sound": "OMOR_Dialogue",
+			"speed": 0.035,
+			"portrait": "headspacekappa",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Even though this is a shitpost mod, I might come back to this."
+		},
+        {
+			"sound": "OMOR_Dialogue",
+			"speed": 0.035,
+			"portrait": "headspacekappa",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "This was legit so fun to make."
+		},
+        {
+			"sound": "OMOR_Dialogue",
+			"speed": 0.035,
+			"portrait": "headspacekappa",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Hope ya'll like it too. Enjoy."
+		},
+        {
+			"sound": "OMOR_Dialogue",
+			"speed": 0.035,
+			"portrait": "headspacekappa",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "By the way, in order to pause now, press BACKSPACE."
+		}
+	]
+}
