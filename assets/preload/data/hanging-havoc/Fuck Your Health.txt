@@ -1,0 +1,9 @@
+-- Event notes hooks
+function onCreate()
+            doTweenAlpha('fuckYourHealthTween','healthBar', 0, 0.3, 'linear')
+            doTweenAlpha('fuckYourHealthIconP1Tween','iconP1', 0, 0.3, 'linear')
+            doTweenAlpha('fuckYourHealthIconP2Tween','iconP2', 0, 0.3, 'linear')
+end
+
+-- For some ungodly reason this doesn't work unless opponent hits a note?
+-- why please ugh
