@@ -1,0 +1,8 @@
+Zooms the camera in or out.
+
+Value 1: Camera Zoom (Default is whatever you have as 
+your stage's camera zoom in the .json of your stage.)
+(Ex. 0.5)
+
+Value 2: How many seconds it takes to zoom.
+If blank, it'll zoom instantly.

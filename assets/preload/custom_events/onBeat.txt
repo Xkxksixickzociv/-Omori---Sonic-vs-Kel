@@ -1,0 +1,4 @@
+Just put this down anywhere and everyone (BF, Dad, & GF) will bop on every beat instead of every other.
+(If their idle animation is named "idle.")
+
+Value 1: True/False = On/Off

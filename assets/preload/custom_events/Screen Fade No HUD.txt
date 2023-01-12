@@ -1,0 +1,4 @@
+Just place the event and it'll fade the screen to black besides the HUD.
+
+Value 1
+How many seconds until the screen fully fades to black.

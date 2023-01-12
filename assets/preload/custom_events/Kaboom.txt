@@ -1,0 +1,1 @@
+Value 2 - Intensity of the screen bounce.
