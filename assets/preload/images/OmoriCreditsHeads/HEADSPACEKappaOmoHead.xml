@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PicoNeutral.png">
+	<!-- Created and animated with ibisPaint X and Text Editor.-->
+    <!-- No FLA for you lol.-->
+	<SubTexture name="Pico0000" x="4" y="4" width="385" height="582" pivotX="22" pivotY="0"/>
+	<SubTexture name="Pico0001" x="4" y="4" width="385" height="582"/>
+    <SubTexture name="Pico0002" x="4" y="4" width="385" height="582" pivotX="22" pivotY="0"/>
+	<SubTexture name="Pico0003" x="4" y="4" width="385" height="582"/>
+    <SubTexture name="Pico0004" x="4" y="4" width="385" height="582" pivotX="22" pivotY="0"/>
+	<SubTexture name="Pico0005" x="393" y="4" width="385" height="582"/>
+	<SubTexture name="Pico0006" x="393" y="4" width="385" height="582"/>
+    <SubTexture name="Pico0007" x="393" y="4" width="385" height="582"/>
+	<SubTexture name="Pico0008" x="393" y="4" width="385" height="582"/>
+    <SubTexture name="Pico0009" x="393" y="4" width="385" height="582"/>
+	<SubTexture name="Pico0010" x="782" y="4" width="385" height="582"/>
+	<SubTexture name="Pico0011" x="782" y="4" width="385" height="582"/>
+    <SubTexture name="Pico0012" x="782" y="4" width="385" height="582"/>
+	<SubTexture name="Pico0013" x="782" y="4" width="385" height="582"/>
+    <SubTexture name="Pico0014" x="782" y="4" width="385" height="582"/>
+</TextureAtlas>
