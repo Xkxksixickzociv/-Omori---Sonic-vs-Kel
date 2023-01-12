@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Isotral.png">
+	<!-- Made in fucking ibisPaint X. -->
+	<!-- I had to make this fucking XML from scratch. -->
+	<SubTexture name="Down0000" x="2753" y="0" width="1168" height="1463" frameX="0" frameY="-5" frameWidth="373" frameHeight="629"/>
+	<SubTexture name="Idle0000" x="0" y="0" width="856" height="1224" frameX="0" frameY="-13" frameWidth="387" frameHeight="825"/>
+	<SubTexture name="Left0000" x="3924" y="0" width="1132" height="1174" frameX="0" frameY="0" frameWidth="489" frameHeight="822"/>
+	<SubTexture name="Right0000" x="858" y="0" width="1067" height="1224" frameX="-3" frameY="-2" frameWidth="323" frameHeight="814"/>
+	<SubTexture name="Up0000" x="1923" y="0" width="791" height="1288" frameX="0" frameY="0" frameWidth="421" frameHeight="860"/>
+</TextureAtlas>

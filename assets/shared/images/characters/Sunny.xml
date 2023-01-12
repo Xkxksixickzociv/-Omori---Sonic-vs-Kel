@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sunny.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bopping0000" x="5" y="5" width="831" height="647" frameX="0" frameY="-7" frameWidth="837" frameHeight="655"/>
+	<SubTexture name="Bopping0001" x="5" y="5" width="831" height="647" frameX="0" frameY="-7" frameWidth="837" frameHeight="655"/>
+	<SubTexture name="Bopping0002" x="846" y="5" width="832" height="647" frameX="0" frameY="-7" frameWidth="837" frameHeight="655"/>
+	<SubTexture name="Bopping0003" x="846" y="5" width="832" height="647" frameX="0" frameY="-7" frameWidth="837" frameHeight="655"/>
+	<SubTexture name="Bopping0004" x="1688" y="5" width="832" height="647" frameX="0" frameY="-7" frameWidth="837" frameHeight="655"/>
+	<SubTexture name="Bopping0005" x="1688" y="5" width="832" height="647" frameX="0" frameY="-7" frameWidth="837" frameHeight="655"/>
+	<SubTexture name="Bopping0006" x="2530" y="5" width="831" height="651" frameX="-1" frameY="-3" frameWidth="837" frameHeight="655"/>
+	<SubTexture name="Bopping0007" x="2530" y="5" width="831" height="651" frameX="-1" frameY="-3" frameWidth="837" frameHeight="655"/>
+	<SubTexture name="Bopping0008" x="5" y="666" width="832" height="653" frameX="-1" frameY="-1" frameWidth="837" frameHeight="655"/>
+	<SubTexture name="Bopping0009" x="5" y="666" width="832" height="653" frameX="-1" frameY="-1" frameWidth="837" frameHeight="655"/>
+	<SubTexture name="Bopping0010" x="847" y="666" width="832" height="653" frameX="-1" frameY="-1" frameWidth="837" frameHeight="655"/>
+	<SubTexture name="Bopping0011" x="847" y="666" width="832" height="653" frameX="-1" frameY="-1" frameWidth="837" frameHeight="655"/>
+	<SubTexture name="Bopping0012" x="1689" y="666" width="833" height="655" frameX="0" frameY="0" frameWidth="837" frameHeight="655"/>
+	<SubTexture name="Bopping0013" x="1689" y="666" width="833" height="655" frameX="0" frameY="0" frameWidth="837" frameHeight="655"/>
+	<SubTexture name="Bopping0014" x="2532" y="666" width="836" height="647" frameX="0" frameY="-7" frameWidth="837" frameHeight="655"/>
+	<SubTexture name="Bopping0015" x="2532" y="666" width="836" height="647" frameX="0" frameY="-7" frameWidth="837" frameHeight="655"/>
+	<SubTexture name="Bopping0016" x="5" y="1331" width="837" height="647" frameX="0" frameY="-7" frameWidth="837" frameHeight="655"/>
+	<SubTexture name="Bopping0017" x="5" y="1331" width="837" height="647" frameX="0" frameY="-7" frameWidth="837" frameHeight="655"/>
+	<SubTexture name="Bopping0018" x="852" y="1331" width="836" height="647" frameX="0" frameY="-7" frameWidth="837" frameHeight="655"/>
+	<SubTexture name="Bopping0019" x="852" y="1331" width="836" height="647" frameX="0" frameY="-7" frameWidth="837" frameHeight="655"/>
+	<SubTexture name="Bopping0020" x="1698" y="1331" width="834" height="650" frameX="0" frameY="-4" frameWidth="837" frameHeight="655"/>
+	<SubTexture name="Bopping0021" x="1698" y="1331" width="834" height="650" frameX="0" frameY="-4" frameWidth="837" frameHeight="655"/>
+	<SubTexture name="Bopping0022" x="2542" y="1331" width="833" height="652" frameX="0" frameY="-2" frameWidth="837" frameHeight="655"/>
+	<SubTexture name="Bopping0023" x="2542" y="1331" width="833" height="652" frameX="0" frameY="-2" frameWidth="837" frameHeight="655"/>
+	<SubTexture name="Bopping0024" x="5" y="1993" width="833" height="653" frameX="0" frameY="-1" frameWidth="837" frameHeight="655"/>
+	<SubTexture name="Bopping0025" x="5" y="1993" width="833" height="653" frameX="0" frameY="-1" frameWidth="837" frameHeight="655"/>
+	<SubTexture name="Bopping0026" x="1689" y="666" width="833" height="655" frameX="0" frameY="0" frameWidth="837" frameHeight="655"/>
+	<SubTexture name="Bopping0027" x="1689" y="666" width="833" height="655" frameX="0" frameY="0" frameWidth="837" frameHeight="655"/>
+</TextureAtlas>

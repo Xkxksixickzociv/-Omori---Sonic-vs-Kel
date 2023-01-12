@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="J_Dreamer.png">
+	<!-- Made in fucking ibisPaint X. -->
+	<!-- I had to make this fucking XML from scratch. -->
+	<SubTexture name="Down0000" x="2363" y="0" width="1119" height="1291" frameX="0" frameY="-5" frameWidth="373" frameHeight="629"/>
+	<SubTexture name="Idle0000" x="0" y="0" width="572" height="1139" frameX="0" frameY="-13" frameWidth="387" frameHeight="825"/>
+	<SubTexture name="Left0000" x="3566" y="0" width="779" height="1120" frameX="0" frameY="0" frameWidth="489" frameHeight="822"/>
+	<SubTexture name="Right0000" x="581" y="0" width="1029" height="1085" frameX="-3" frameY="-2" frameWidth="323" frameHeight="814"/>
+	<SubTexture name="Up0000" x="1663" y="0" width="685" height="1197" frameX="0" frameY="0" frameWidth="421" frameHeight="860"/>
+</TextureAtlas>
