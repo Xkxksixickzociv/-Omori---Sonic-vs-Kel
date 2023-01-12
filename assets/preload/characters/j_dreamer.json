@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-31
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				263,
+				144
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				42
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": [
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				104,
+				-67
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/J_Dreamer",
+	"position": [
+		-300,
+		-200
+	],
+	"healthicon": "j_dreamer",
+	"flip_x": false,
+	"healthbar_colors": [
+		120,
+		120,
+		120
+	],
+	"camera_position": [
+		100,
+		-50
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}

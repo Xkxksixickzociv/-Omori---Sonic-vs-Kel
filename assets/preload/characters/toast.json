@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				37,
+				11
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "Shadow Title Bump"
+		},
+		{
+			"offsets": [
+				37,
+				5
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "Shadow Title Bump"
+		},
+		{
+			"offsets": [
+				37,
+				69
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "Shadow Title Bump"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Toast",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "kel",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		109
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				181,
+				412
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "whitty idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				236,
+				490
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "whitty up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				218,
+				366
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "whitty down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				272,
+				439
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "whitty left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				166,
+				406
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "whitty right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Julian",
+	"position": [
+		150,
+		380
+	],
+	"healthicon": "julian",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		120,
+		0
+	],
+	"camera_position": [
+		-90,
+		-430
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

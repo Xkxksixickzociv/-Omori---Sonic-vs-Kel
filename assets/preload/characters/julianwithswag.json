@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				171,
+				412
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "whitty idle"
+		},
+		{
+			"offsets": [
+				180,
+				455
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "whitty up"
+		},
+		{
+			"offsets": [
+				374,
+				179
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "whitty down"
+		},
+		{
+			"offsets": [
+				183,
+				383
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "whitty left"
+		},
+		{
+			"offsets": [
+				214,
+				407
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "whitty right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/JulianWithSwag",
+	"position": [
+		120,
+		380
+	],
+	"healthicon": "julian",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		120,
+		0
+	],
+	"camera_position": [
+		-100,
+		-310
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
