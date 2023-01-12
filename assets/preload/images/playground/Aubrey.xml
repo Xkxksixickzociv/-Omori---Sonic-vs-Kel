@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Girl3.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="girl30000" x="5" y="5" width="391" height="326" frameX="0" frameY="-10" frameWidth="391" frameHeight="337"/>
+	<SubTexture name="girl30001" x="5" y="5" width="391" height="326" frameX="0" frameY="-10" frameWidth="391" frameHeight="337"/>
+	<SubTexture name="girl30002" x="406" y="5" width="382" height="335" frameX="-4" frameY="-1" frameWidth="391" frameHeight="337"/>
+	<SubTexture name="girl30003" x="406" y="5" width="382" height="335" frameX="-4" frameY="-1" frameWidth="391" frameHeight="337"/>
+	<SubTexture name="girl30004" x="798" y="5" width="381" height="336" frameX="-4" frameY="0" frameWidth="391" frameHeight="337"/>
+	<SubTexture name="girl30005" x="798" y="5" width="381" height="336" frameX="-4" frameY="0" frameWidth="391" frameHeight="337"/>
+	<SubTexture name="girl30006" x="5" y="351" width="381" height="337" frameX="-4" frameY="0" frameWidth="391" frameHeight="337"/>
+	<SubTexture name="girl30007" x="5" y="351" width="381" height="337" frameX="-4" frameY="0" frameWidth="391" frameHeight="337"/>
+	<SubTexture name="girl30008" x="396" y="351" width="381" height="336" frameX="-4" frameY="0" frameWidth="391" frameHeight="337"/>
+	<SubTexture name="girl30009" x="396" y="351" width="381" height="336" frameX="-4" frameY="0" frameWidth="391" frameHeight="337"/>
+	<SubTexture name="girl30010" x="396" y="351" width="381" height="336" frameX="-4" frameY="0" frameWidth="391" frameHeight="337"/>
+	<SubTexture name="girl30011" x="396" y="351" width="381" height="336" frameX="-4" frameY="0" frameWidth="391" frameHeight="337"/>
+	<SubTexture name="girl30012" x="396" y="351" width="381" height="336" frameX="-4" frameY="0" frameWidth="391" frameHeight="337"/>
+	<SubTexture name="girl30013" x="396" y="351" width="381" height="336" frameX="-4" frameY="0" frameWidth="391" frameHeight="337"/>
+	<SubTexture name="girl30014" x="396" y="351" width="381" height="336" frameX="-4" frameY="0" frameWidth="391" frameHeight="337"/>
+</TextureAtlas>

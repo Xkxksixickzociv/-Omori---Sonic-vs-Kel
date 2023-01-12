@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Basil.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="girl10000" x="5" y="5" width="237" height="399" frameX="0" frameY="-12" frameWidth="237" frameHeight="411"/>
+	<SubTexture name="girl10001" x="5" y="5" width="237" height="399" frameX="0" frameY="-12" frameWidth="237" frameHeight="411"/>
+	<SubTexture name="girl10002" x="262" y="5" width="225" height="407" frameX="-6" frameY="-3" frameWidth="237" frameHeight="411"/>
+	<SubTexture name="girl10003" x="262" y="5" width="225" height="407" frameX="-6" frameY="-3" frameWidth="237" frameHeight="411"/>
+	<SubTexture name="girl10004" x="507" y="5" width="222" height="410" frameX="-7" frameY="0" frameWidth="237" frameHeight="411"/>
+	<SubTexture name="girl10005" x="507" y="5" width="222" height="410" frameX="-7" frameY="0" frameWidth="237" frameHeight="411"/>
+	<SubTexture name="girl10006" x="749" y="5" width="222" height="410" frameX="-7" frameY="-1" frameWidth="237" frameHeight="411"/>
+	<SubTexture name="girl10007" x="749" y="5" width="222" height="410" frameX="-7" frameY="-1" frameWidth="237" frameHeight="411"/>
+	<SubTexture name="girl10008" x="5" y="435" width="222" height="409" frameX="-7" frameY="-1" frameWidth="237" frameHeight="411"/>
+	<SubTexture name="girl10009" x="5" y="435" width="222" height="409" frameX="-7" frameY="-1" frameWidth="237" frameHeight="411"/>
+	<SubTexture name="girl10010" x="5" y="435" width="222" height="409" frameX="-7" frameY="-1" frameWidth="237" frameHeight="411"/>
+	<SubTexture name="girl10011" x="5" y="435" width="222" height="409" frameX="-7" frameY="-1" frameWidth="237" frameHeight="411"/>
+	<SubTexture name="girl10012" x="5" y="435" width="222" height="409" frameX="-7" frameY="-1" frameWidth="237" frameHeight="411"/>
+	<SubTexture name="girl10013" x="5" y="435" width="222" height="409" frameX="-7" frameY="-1" frameWidth="237" frameHeight="411"/>
+	<SubTexture name="girl10014" x="5" y="435" width="222" height="409" frameX="-7" frameY="-1" frameWidth="237" frameHeight="411"/>
+</TextureAtlas>
